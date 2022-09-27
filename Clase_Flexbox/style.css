@@ -1,0 +1,21 @@
+.section {
+    height: 400px;
+    background-color: mediumaquamarine;
+    display: flex;
+    justify-content: center;
+}
+
+.box1, .box2, .box3 {
+    width: 100px;
+    height: 100px;
+    color: aliceblue;
+}
+.box1 {
+    background-color: blueviolet;
+}
+.box2 {
+    background-color: rgb(97, 34, 156);
+}
+.box3 {
+    background-color: rgb(70, 22, 115);
+}

@@ -1,0 +1,19 @@
+.button1 {
+    background-color: aquamarine;
+    padding: 30px;
+    width: 100px;
+    text-align: center;
+    border-radius: 20px;
+    
+}
+.button2 {
+    background-color: aquamarine;
+    padding: 30px;
+    width: 100px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.button__inactive {
+    opacity: 40%;
+}
